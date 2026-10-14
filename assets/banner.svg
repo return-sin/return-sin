@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">return-sin — a little code, a little wonder</title><desc id="desc">A blue and lavender night sky, crescent moon, shooting stars, and a quiet city silhouette.</desc>
+<defs><linearGradient id="sky" x2="1" y2="1"><stop stop-color="#141831"/><stop offset=".55" stop-color="#343666"/><stop offset="1" stop-color="#9478b4"/></linearGradient><linearGradient id="trail"><stop stop-color="#b6ddff" stop-opacity="0"/><stop offset="1" stop-color="#e6eaff"/></linearGradient></defs>
+<rect width="1200" height="360" rx="20" fill="url(#sky)"/>
+<g fill="#dfe8ff" opacity=".8"><circle cx="80" cy="54" r="2"/><circle cx="195" cy="103" r="1.5"/><circle cx="347" cy="39" r="2"/><circle cx="557" cy="62" r="1.5"/><circle cx="694" cy="110" r="2"/><circle cx="870" cy="42" r="1.5"/><circle cx="1074" cy="157" r="2"/><circle cx="1132" cy="72" r="1.5"/><circle cx="744" cy="215" r="1.5"/></g>
+<path d="M756 82l103-33" stroke="url(#trail)" stroke-width="2"/><path d="M1060 228l70-24" stroke="url(#trail)" stroke-width="2"/>
+<path d="M1013 66a51 51 0 1 0 41 83 45 45 0 0 1-41-83" fill="#f7ebd6"/>
+<g fill="#191c39" opacity=".75"><path d="M0 311h47v-29h38v29h57v-48h31v48h63v-22h53v22h82v-41h39v41h61v-18h45v18h83v-35h36v35h55v-56h48v56h71v-30h34v30h54v-50h47v50h65v-17h55v17h66v-45h46v45h34v49H0z"/></g>
+<g font-family="'Segoe UI',Arial,sans-serif"><text x="80" y="166" fill="#f6f2ff" font-size="65" font-weight="700" letter-spacing="2">return-sin</text><text x="84" y="209" fill="#d4d7f2" font-size="20" letter-spacing="3">A LITTLE CODE, A LITTLE WONDER.</text><text x="84" y="254" fill="#c0b8e0" font-size="16" letter-spacing="2">BUILD · EXPLORE · REPEAT</text></g></svg>
