@@ -66,7 +66,8 @@ Remain a disciple of life.
 <img src="./assets/activity-heading.svg" width="100%" alt="GitHub activity" />
 
 <p align="center">
-  <a href="https://github.com/return-sin?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=return-sin&amp;theme=github_dark&amp;title_color=39c5bb&amp;text_color=bdeeea&amp;bg_color=0d1117&amp;border_color=164e4a&amp;chart_color=39c5bb" width="100%" alt="GitHub 账号 return-sin 的动态贡献记录" /></a>
+  <a href="https://github.com/return-sin?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=return-sin&amp;theme=github_dark&amp;title_color=39c5bb&amp;text_color=bdeeea&amp;bg_color=0d1117&amp;border_color=164e4a&amp;chart_color=39c5bb" width="340" alt="GitHub 公开活动统计" /></a>
+  <a href="https://github.com/return-sin?tab=overview"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=return-sin&amp;theme=github_dark&amp;title_color=39c5bb&amp;text_color=bdeeea&amp;bg_color=0d1117&amp;border_color=164e4a&amp;chart_color=39c5bb&amp;utcOffset=8" width="340" alt="GitHub 提交时段分布（UTC+8）" /></a>
 </p>
 <p align="center"><sub>基于 GitHub 账号公开数据生成 · 点击查看原始贡献记录</sub></p>
 
